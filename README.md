@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fran
 - 👀 I’m interested in videogames, fitness and spending quality time with like-minded people;
-- 🌱 I’m currently on the last year of master's degree in computer sciences;
+- 🌱 I have an MSc in Computer Science;
 - 💞️ I’m looking to collaborate on anything I've got time to do;
 - 📫 Reach me via fposaric@gmail.com
 
